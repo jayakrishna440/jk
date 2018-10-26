@@ -1,0 +1,502 @@
+[
+  {
+    "key": "5bc58bf455e4fe3467ff0b9e",
+    "location": "location 2",
+    "region": "US",
+    "building": "AESCP-2",
+    "capacity": 28,
+    "room_type": "Reservable Office",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf491f0363e398e3342",
+    "location": "location 3",
+    "region": "EMEA",
+    "building": "AESCP-1",
+    "capacity": 14,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf46767a2b5c5726861",
+    "location": "location 3",
+    "region": "LAC",
+    "building": "AESCP-2",
+    "capacity": 6,
+    "room_type": "Reservable Cubicle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf464aefa8f1869ce88",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AESCP-2",
+    "capacity": 1,
+    "room_type": "Reservable Office",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4d75d36e074938c60",
+    "location": "location 3",
+    "region": "US",
+    "building": "AESCP-2",
+    "capacity": 2,
+    "room_type": "Reservable Office",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4a04ed89200bb39a7",
+    "location": "location 3",
+    "region": "EMEA",
+    "building": "AEDR-OB2",
+    "capacity": 10,
+    "room_type": "Reservable Office",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4166f4bb979f240d9",
+    "location": "location 2",
+    "region": "US",
+    "building": "AEDR-OB2",
+    "capacity": 40,
+    "room_type": "Reservable Office",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf49edc5ac139ffe557",
+    "location": "location 2",
+    "region": "JAPA",
+    "building": "AESCP-1",
+    "capacity": 29,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf45770c950a7d9f2c2",
+    "location": "location 2",
+    "region": "EMEA",
+    "building": "AESCP-2",
+    "capacity": 32,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf40b3e223b8d08bd7a",
+    "location": "location 3",
+    "region": "US",
+    "building": "AESCP-1",
+    "capacity": 7,
+    "room_type": "Reservable Cubicle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4e8f48da1700a19b8",
+    "location": "location 2",
+    "region": "EMEA",
+    "building": "AEDR-OB2",
+    "capacity": 26,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4e4957c7825fc8e0a",
+    "location": "location 2",
+    "region": "EMEA",
+    "building": "AESCP-2",
+    "capacity": 15,
+    "room_type": "Reservable Office",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf42918170a3bc2d41c",
+    "location": "location 2",
+    "region": "EMEA",
+    "building": "AESCP-2",
+    "capacity": 28,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4300bf8c2451ffc83",
+    "location": "location 1",
+    "region": "US",
+    "building": "AESCP-1",
+    "capacity": 5,
+    "room_type": "Reservable Cubicle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf416a0e0c70b6fd765",
+    "location": "location 1",
+    "region": "JAPA",
+    "building": "AEDR-OB1",
+    "capacity": 7,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf42a643aebe2864ab5",
+    "location": "location 2",
+    "region": "EMEA",
+    "building": "AEDR-OB1",
+    "capacity": 14,
+    "room_type": "Reservable Cubicle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf401ae138d6fab3260",
+    "location": "location 2",
+    "region": "LAC",
+    "building": "AESCP-1",
+    "capacity": 3,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4a91c39853eea0162",
+    "location": "location 1",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 7,
+    "room_type": "Reservable Cubicle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf44908aa355dbc667b",
+    "location": "location 2",
+    "region": "US",
+    "building": "AESCP-1",
+    "capacity": 17,
+    "room_type": "Reservable Cubicle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4addac0bb3657f07a",
+    "location": "location 2",
+    "region": "JAPA",
+    "building": "AEDR-OB2",
+    "capacity": 20,
+    "room_type": "Reservable Cubicle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf437339965aed13687",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AEDR-OB2",
+    "capacity": 35,
+    "room_type": "Reservable Office",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4d0d23334b676861a",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AEDR-OB2",
+    "capacity": 34,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf41d22990f036236da",
+    "location": "location 3",
+    "region": "EMEA",
+    "building": "AEDR-OB1",
+    "capacity": 9,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4b4361993ce03890c",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AESCP-1",
+    "capacity": 16,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf437bd2af8b8700207",
+    "location": "location 2",
+    "region": "US",
+    "building": "AESCP-1",
+    "capacity": 15,
+    "room_type": "Reservable Cubicle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4d382bb7249596780",
+    "location": "location 3",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 12,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf41a41accaa3e744b2",
+    "location": "location 2",
+    "region": "JAPA",
+    "building": "AESCP-1",
+    "capacity": 26,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf42cae53cda2fea2db",
+    "location": "location 1",
+    "region": "JAPA",
+    "building": "AESCP-1",
+    "capacity": 14,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4fe193983ce54228c",
+    "location": "location 1",
+    "region": "JAPA",
+    "building": "AESCP-1",
+    "capacity": 1,
+    "room_type": "Reservable Office",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4c139012b313d24ea",
+    "location": "location 2",
+    "region": "US",
+    "building": "AEDR-OB2",
+    "capacity": 15,
+    "room_type": "Reservable Cubicle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4dac99762dd214ff3",
+    "location": "location 3",
+    "region": "JAPA",
+    "building": "AESCP-2",
+    "capacity": 14,
+    "room_type": "Reservable Office",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4ef5837c6a6aef2c3",
+    "location": "location 1",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 22,
+    "room_type": "Reservable Office",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4de930822147bfe56",
+    "location": "location 1",
+    "region": "JAPA",
+    "building": "AESCP-1",
+    "capacity": 16,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4e7298ecda93046ae",
+    "location": "location 2",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 32,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4a5359484ead15e3c",
+    "location": "location 3",
+    "region": "JAPA",
+    "building": "AESCP-1",
+    "capacity": 27,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4ff7968e9ad0863b2",
+    "location": "location 3",
+    "region": "LAC",
+    "building": "AESCP-2",
+    "capacity": 8,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4e304089601d3ea97",
+    "location": "location 1",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 5,
+    "room_type": "Reservable Office",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf410bf512f364210aa",
+    "location": "location 1",
+    "region": "EMEA",
+    "building": "AEDR-OB2",
+    "capacity": 31,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf401c53bca83c37f59",
+    "location": "location 3",
+    "region": "EMEA",
+    "building": "AESCP-2",
+    "capacity": 10,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4906d59da1658cb17",
+    "location": "location 3",
+    "region": "JAPA",
+    "building": "AESCP-2",
+    "capacity": 9,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4b6f12b9e4000ffcd",
+    "location": "location 1",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 39,
+    "room_type": "Office/Huddle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf427bb9f2d575d988b",
+    "location": "location 3",
+    "region": "LAC",
+    "building": "AEDR-OB1",
+    "capacity": 33,
+    "room_type": "Reservable Cubicle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf472ea59c1f949f4c3",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AEDR-OB1",
+    "capacity": 17,
+    "room_type": "Reservable Cubicle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4d15acca8a621403f",
+    "location": "location 2",
+    "region": "LAC",
+    "building": "AESCP-2",
+    "capacity": 10,
+    "room_type": "Reservable Cubicle",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf42c22c236b672f4d1",
+    "location": "location 2",
+    "region": "US",
+    "building": "AEDR-OB1",
+    "capacity": 24,
+    "room_type": "Reservable Cubicle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf40bd5f6f02969697f",
+    "location": "location 2",
+    "region": "US",
+    "building": "AESCP-1",
+    "capacity": 13,
+    "room_type": "Reservable Office",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf465bade4283df49db",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AESCP-2",
+    "capacity": 32,
+    "room_type": "Office/Huddle",
+    "floor": "02",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4e84c56d2ff1c7db5",
+    "location": "location 2",
+    "region": "EMEA",
+    "building": "AESCP-2",
+    "capacity": 10,
+    "room_type": "Reservable Office",
+    "floor": "03",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4ef44624ea4c18e6b",
+    "location": "location 2",
+    "region": "LAC",
+    "building": "AESCP-1",
+    "capacity": 19,
+    "room_type": "Reservable Cubicle",
+    "floor": "01",
+    "like": ""
+  },
+  {
+    "key": "5bc58bf4cfe3afed958dad24",
+    "location": "location 1",
+    "region": "LAC",
+    "building": "AESCP-1",
+    "capacity": 5,
+    "room_type": "Office/Huddle",
+    "floor": "03",
+    "like": ""
+  }
+]
